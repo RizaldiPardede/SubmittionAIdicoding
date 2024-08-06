@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SubmissionPertamaAI</string>
+    <string name="username">username</string>
+    <string name="descripsi">descripsi</string>
+    <string name="token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJ1c2VyLXNVb1VnQXhkSF9ueTBwUkkiLCJpYXQiOjE2ODI5NTY1OTF9.pb4ckdwzrMEZZxeECgqyOu8n3ovpv1wQ2oyDULcXbLg</string>
+    <string name="email">Email</string>
+    <string name="masukkan_email">Masukkan Email</string>
+    <string name="register_akun">Register Akun</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="logout">logout</string>
+    <string name="username2">Username</string>
+    <string name="daftar">Daftar</string>
+    <string name="username3">Username</string>
+    <string name="created_add">created add</string>
+    <string name="ini_adalah_deskripsi">ini adalah deskripsi</string>
+    <string name="masukkan_deskripsi">Masukkan deskripsi</string>
+    <string name="from_galery">From Galery</string>
+    <string name="take_a_picture">Take A Picture</string>
+    <string name="upload">upload</string>
+    <string name="account">account</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="title_activity_maps">Story Maps</string>
+    <string name="location">location</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Coba lagi</string>
+    <string name="yourlocation">Location</string>
+</resources>
